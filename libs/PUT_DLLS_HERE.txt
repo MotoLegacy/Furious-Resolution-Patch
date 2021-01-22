@@ -1,0 +1,13 @@
+== required DLLs ==
+
+from BepInEx:
+* 0Harmony.dll
+* BepInEx.dll
+* BepInEx.Harmony.dll
+
+from Garfield Kart: Furious Racing
+* Assembly-CSharp.dll
+* UnityEngine.CoreModule.dll
+* UnityEngine.dll
+* UnityEngine.IMGUIModule.dll
+* UnityEngine.UI.dll
